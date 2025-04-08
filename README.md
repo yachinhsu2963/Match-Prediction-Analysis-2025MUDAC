@@ -1,5 +1,4 @@
-# Match-Prediction-Analysis-2025MUDAC
-## 2025 MinneMUDAC - Match Prediction Analysis for Nonprofit Mentoring Organization
+# 2025 MinneMUDAC - Match Prediction Analysis for Nonprofit Mentoring Organization
 ### Match Length/ Closure Reason Prediction in Mentoring Programs
 
 Our team acts as consultant for a US nonprofit mentoring organization in this project. Our analysis goal is to help the organization **better understand match dynamics, identify potential risks early, and enhance the longevity and quality of mentoring relationships**. Our work received interest from the CEO of the organization, and he expressed interest in applying our findings and exploring further collaboration. If implemented, **this monitoring dashboard has the potential to strengthen mentor-mentee bonds and ultimately promote the well-being and long-term development of the children served.**\
