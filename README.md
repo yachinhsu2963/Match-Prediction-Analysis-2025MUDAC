@@ -29,14 +29,12 @@ Presentation Video: https://youtu.be/aShfKNuB5Yg?si=gvbUEqG6z8_VA8xt
 ---
 
 ### Project Structure
-```
 | Module             | Description                                        |
 |--------------------|----------------------------------------------------|
 | EDA.ipynb        | Overview about the data     |
 | LLM_Calls_EntityRecognition.ipynb        | GPT-parsed speaker utterances |
 | Predictive_Model.ipynb | LightGBM Match Length Prediction             |
 | Transformation_topicmodelling.ipynb  | Topic Modeling of Match Closure Reasons |
-```
 
 ### Key Results
 
